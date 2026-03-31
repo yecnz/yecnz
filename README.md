@@ -22,24 +22,21 @@
 
 
 ##### 잠깐 셀프네일 자랑 .. 
-<img src="img/nail1.png" width="300" height="400">
-<img src="img/nail2.png" width="300" height="400">
-<img src="img/nail3.png" width="300" height="400">
-<img src="img/nail4.png" width="300" height="400">
-<img src="img/nail5.png" width="300" height="400">
-<img src="img/nail6.png" width="300" height="400">
-<img src="img/nail7.png" width="300" height="400">
-<img src="img/nail8.png" width="300" height="400">
-
-
+https://github.com/yecnz/yecnz/blob/main/img/nail1.png
+https://github.com/yecnz/yecnz/blob/main/img/nail2.png
+https://github.com/yecnz/yecnz/blob/main/img/nail3.png
+https://github.com/yecnz/yecnz/blob/main/img/nail4.png
+https://github.com/yecnz/yecnz/blob/main/img/nail5.png
+https://github.com/yecnz/yecnz/blob/main/img/nail6.png
+https://github.com/yecnz/yecnz/blob/main/img/nail7.png
+https://github.com/yecnz/yecnz/blob/main/img/nail8.png
 
 ### 좋아하는 캐릭터 : 폼폼푸린
-<img src="img/pompompurin.png" width="700" height="370">
-
+https://github.com/yecnz/yecnz/blob/main/img/pompompurin.png
 
 ### 좋아하는 것 : 키링 줄줄 달기
-<img src="img/keyring.png">
+https://github.com/yecnz/yecnz/blob/main/img/keyring.png
 
 
 ### 응원하는 야구 팀 -> 두 산 ! ! !
-<img src="img/baseball.png">
+https://github.com/yecnz/yecnz/blob/main/img/baseball.png
