@@ -22,24 +22,24 @@
 
 
 ##### 잠깐 셀프네일 자랑 .. 
-<img src="img/nail1" width="300" height="400">
-<img src="img/nail2" width="300" height="400">
-<img src="img/nail3" width="300" height="400">
-<img src="img/nail4" width="300" height="400">
-<img src="img/nail5" width="300" height="400">
-<img src="img/nail6" width="300" height="400">
-<img src="img/nail7" width="300" height="400">
-<img src="img/nail8" width="300" height="400">
+<img src="img/nail1.png" width="300" height="400">
+<img src="img/nail2.png" width="300" height="400">
+<img src="img/nail3.png" width="300" height="400">
+<img src="img/nail4.png" width="300" height="400">
+<img src="img/nail5.png" width="300" height="400">
+<img src="img/nail6.png" width="300" height="400">
+<img src="img/nail7.png" width="300" height="400">
+<img src="img/nail8.png" width="300" height="400">
 
 
 
 ### 좋아하는 캐릭터 : 폼폼푸린
-<img src="img/pompompurin" width="700" height="370">
+<img src="img/pompompurin.png" width="700" height="370">
 
 
 ### 좋아하는 것 : 키링 줄줄 달기
-<img src="img/keyring">
+<img src="img/keyring.png">
 
 
 ### 응원하는 야구 팀 -> 두 산 ! ! !
-<img src="img/baseboll">
+<img src="img/baseball.png">
