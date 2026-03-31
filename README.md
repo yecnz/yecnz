@@ -22,24 +22,24 @@
 
 
 ##### 잠깐 셀프네일 자랑 .. 
-<img src="/Desktop/yecnz/img/nail1" width="300" height="400">
-<img src="/Desktop/yecnz/img/nail2" width="300" height="400">
-<img src="/Desktop/yecnz/img/nail3" width="300" height="400">
-<img src="/Desktop/yecnz/img/nail4" width="300" height="400">
-<img src="/Desktop/yecnz/img/nail5" width="300" height="400">
-<img src="/Desktop/yecnz/img/nail6" width="300" height="400">
-<img src="/Desktop/yecnz/img/nail7" width="300" height="400">
-<img src="/Desktop/yecnz/img/nail8" width="300" height="400">
+<img src="img/nail1" width="300" height="400">
+<img src="img/nail2" width="300" height="400">
+<img src="img/nail3" width="300" height="400">
+<img src="img/nail4" width="300" height="400">
+<img src="img/nail5" width="300" height="400">
+<img src="img/nail6" width="300" height="400">
+<img src="img/nail7" width="300" height="400">
+<img src="img/nail8" width="300" height="400">
 
 
 
 ### 좋아하는 캐릭터 : 폼폼푸린
-<img src="/Desktop/yecnz/img/pompompurin.png" width="700" height="370">
+<img src="img/pompompurin" width="700" height="370">
 
 
 ### 좋아하는 것 : 키링 줄줄 달기
-<img src="/Desktop/yecnz/img/keyring.png">
+<img src="img/keyring">
 
 
 ### 응원하는 야구 팀 -> 두 산 ! ! !
-<img src="/Desktop/yecnz/img/baseboll.png">
+<img src="img/baseboll">
