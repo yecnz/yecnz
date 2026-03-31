@@ -25,9 +25,11 @@
 
 
 ### 좋아하는 캐릭터 : 폼폼푸린
+<img src="img/pompompurin.png" width="700">
 
 
 ### 좋아하는 것 : 키링 줄줄 달기
-<img src="img/pompompurin.png" width="700">
+<img src="img/keyring.png" width="300">
 
 ### 응원하는 야구 팀 -> 두 산 ! ! !
+<img src="img/baseball.png" width="300">
