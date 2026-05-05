@@ -24,29 +24,7 @@
 4. 요새 빠진 취미 : **셀프네일** 💅
 
 
-#### 잠깐 셀프네일 자랑 .. 
-<img src="img/nail1.png" width="300">,
-<img src="img/nail2.png" width="300">,
-<img src="img/nail3.png" width="300">,
-<img src="img/nail4.png" width="300">,
-<img src="img/nail5.png" width="300">,
-<img src="img/nail6.png" width="300">,
-<img src="img/nail7.png" width="300">,
-<img src="img/nail8.png" width="300">
-
-
 
 
 ### 좋아하는 캐릭터 : 폼폼푸린 🍮
 <img src="img/pompompurin.png" width="700">
-
-
-
-
-### 좋아하는 것 : 키링 줄줄 달기
-<img src="img/keyring.png" width="300">
-
-
-
-### 응원하는 야구 팀 -> 두 산 ! ! !
-<img src="img/baseball.png" width="300">
