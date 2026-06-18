@@ -13,7 +13,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&pause=3000&color=F78B6C&width=435&lines=Age+%3A+23" alt="Typing SVG" /></a>
 
 
-
 ### Major : Computer Engineering
 ### Double Major : Food Bioengineering
 
@@ -28,3 +27,7 @@
 
 ### 좋아하는 캐릭터 : 폼폼푸린 🍮
 <img src="img/pompompurin.png" width="700">
+
+
+![Yecnz's GitHub stats](https://github-readme-stats.vercel.app/api?username=yecnz&hide=contribs,prs)
+
